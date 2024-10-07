@@ -1,0 +1,9 @@
+# Ignore node_modules for both frontend and backend
+/listo-backend-main/node_modules
+/listo-frontend-main/node_modules
+
+# Ignore build files
+/frontend/build
+
+# Ignore environment variables
+.env

@@ -1,0 +1,46 @@
+.delete-task-btn {
+    height: 32px;
+    width: 170px;
+    background-color: #b04632;
+    align-content: center;
+    justify-content: center;
+
+    &:hover {
+        cursor: pointer;
+        background-color: darken($color: #b04632, $amount: 6);
+    }
+
+    h2 {
+        color: #ffff;
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
+
+.task-archived-indication {
+    display: flex;
+    background-color: #FDFAE5;
+    background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.05) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.05) 75%, transparent 75%, transparent);
+    background-size: 14px 14px;
+    padding: 14px 0;
+
+    p {
+        align-self: center;
+        font-size: 16px;
+        margin: 0;
+    }
+
+    img {
+        margin-left: 18px;
+        margin-right: 14px;
+        width: 24px;
+    }
+}
+
+.undo-container {
+    img {
+        width: 13px;
+        height: 16px;
+        margin-top: 2px;
+    }
+}

@@ -1,0 +1,28 @@
+.board-list-container {
+    .board-list{
+
+        gap: 20px;
+        flex-wrap: wrap;
+        &:first-of-type{
+            margin-bottom: 50px;
+        }
+    
+        &:nth-of-type(2){
+            padding-bottom: 20px;
+        }
+    }
+
+    .title-container {
+        align-items: flex-end;
+
+        img {
+            margin-right: 14px;
+            filter: invert(34%) sepia(13%) saturate(1161%) hue-rotate(180deg) brightness(86%) contrast(92%);
+        }
+    }
+
+    h2 {
+        font-size: 16px;
+        margin: 0;
+    }
+}

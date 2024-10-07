@@ -1,0 +1,115 @@
+.add-group {
+    margin-inline-end: 8px;
+    align-self: flex-start;
+    padding: 4px;
+    max-height: calc(86vh);
+    margin: 0 4px;
+    min-width: 272px;
+    border-radius: 3px;
+    background-color: $clr13;
+    opacity: 0;
+    transition: opacity, height;
+    transition-duration: .1s;
+    height: 0;
+
+    &.open {
+        height: 80px;
+        opacity: 1;
+    }
+
+    input {
+        display: block;
+        width: 100%;
+        padding: 0 12px;
+        outline: none;
+        border: none;
+        border-radius: 3px;
+        box-shadow: inset 0 0 0 2px #0079bf;
+        line-height: 20px;
+        height: 0;
+        transition: height, padding;
+        transition-duration: .2s;
+
+        &.open {
+            padding: 8px 12px;
+            height: 36px;
+        }
+    }
+
+    .add-group-actions {
+        margin-top: 4px;
+        position: relative;
+
+        button {
+            margin-inline-end: 4px;
+            padding: 0 12px;
+            height: 0;
+            transition: padding, height;
+            transition-duration: .2s;
+
+            &.open {
+                padding: 4px 12px;
+                height: 32px;
+            }
+        }
+
+        .close-add-group {
+            font-size: 0px;
+            color: rgb(66, 82, 110);
+            margin-left: 4px;
+            position: relative;
+            top: -36px;
+            cursor: pointer;
+
+            &.open {
+
+                font-size: 26px;
+                color: rgb(66, 82, 110);
+                margin-left: 4px;
+                position: relative;
+                top: 0px;
+            }
+        }
+    }
+}
+
+
+.add-group-btn {
+    @include boarder-header-btn;
+    color: #fff;
+    min-width: 272px;
+    height: 36px;
+    margin: 0 4px;
+    position: absolute;
+    z-index: 10;
+    opacity: 1;
+    transition: opacity .1s;
+
+    &.open {
+        z-index: -10;
+        opacity: 0;
+    }
+
+    .add-icon {
+        margin-inline-end: 4px;
+        font-size: 16px;
+    }
+
+    .add-icon::before {
+        background-image: url(../../../img/icon/add.svg);
+        filter: invert(97%) sepia(0%) saturate(7451%) hue-rotate(98deg) brightness(115%) contrast(101%);
+        background-size: 16px 16px;
+        display: inline-block;
+        width: 16px;
+        height: 14px;
+        content: "";
+    }
+
+    &:hover {
+        background-color: #8080808a;
+    }
+
+    span {
+        color: #172b4d;
+    }
+}

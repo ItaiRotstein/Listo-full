@@ -1,0 +1,209 @@
+11.4.2024, 15:44:11 - INFO - Server is running on port: 3030 
+11.4.2024, 15:44:58 - INFO - Server is running on port: 3030 
+11.4.2024, 15:45:03 - INFO - Server is running on port: 3030 
+11.4.2024, 15:45:21 - INFO - Server is running on port: 3030 
+11.4.2024, 15:45:40 - INFO - Server is running on port: 3030 
+11.4.2024, 15:48:12 - INFO - New connected socket [id: R2TTkYdaMytYvpTBAAAB] 
+11.4.2024, 15:48:12 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: R2TTkYdaMytYvpTBAAAB] 
+11.4.2024, 15:48:19 - DEBUG - Getting Boards 
+11.4.2024, 15:48:34 - INFO - New chat msg from socket [id: R2TTkYdaMytYvpTBAAAB], emitting to boardId 629ba597ddfe9b64ca03c3bb 
+11.4.2024, 15:50:49 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 15:50:50 - INFO - New connected socket [id: l54DOF0hFhOTU-p9AAAD] 
+11.4.2024, 15:54:22 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:54:25 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:54:38 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:54:40 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:54:41 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:54:53 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:55:14 - INFO - New chat msg from socket [id: l54DOF0hFhOTU-p9AAAD], emitting to boardId undefined 
+11.4.2024, 15:58:48 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 15:58:50 - INFO - New connected socket [id: wavCOi77Ue-y5LtcAAAF] 
+11.4.2024, 16:01:43 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:01:43 - INFO - New connected socket [id: gI0c6AoygpxsMF1RAAAH] 
+11.4.2024, 16:02:28 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:02:29 - INFO - New connected socket [id: h8hHvFwP6NzZMkWoAAAJ] 
+11.4.2024, 16:02:30 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: h8hHvFwP6NzZMkWoAAAJ] 
+11.4.2024, 16:03:50 - DEBUG - Getting Boards 
+11.4.2024, 16:03:53 - INFO - Socket is leaving boardId 629ba597ddfe9b64ca03c3bb [id: h8hHvFwP6NzZMkWoAAAJ] 
+11.4.2024, 16:05:27 - INFO - New chat msg from socket [id: h8hHvFwP6NzZMkWoAAAJ], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 16:06:34 - INFO - New connected socket [id: _kjggWvR8_7dzw72AAAL] 
+11.4.2024, 16:06:34 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: _kjggWvR8_7dzw72AAAL] 
+11.4.2024, 16:06:38 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:06:38 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:06:38 - INFO - New connected socket [id: vynG8ZK9RCX1vGFSAAAN] 
+11.4.2024, 16:06:39 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: vynG8ZK9RCX1vGFSAAAN] 
+11.4.2024, 16:06:44 - DEBUG - Getting Boards 
+11.4.2024, 16:06:58 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:06:58 - INFO - New connected socket [id: jIFypqndZjBuVfqoAAAP] 
+11.4.2024, 16:06:58 - DEBUG - Getting Boards 
+11.4.2024, 16:06:58 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: jIFypqndZjBuVfqoAAAP] 
+11.4.2024, 16:07:13 - INFO - New connected socket [id: Sfub26sY3HQkDebRAAAR] 
+11.4.2024, 16:07:13 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: Sfub26sY3HQkDebRAAAR] 
+11.4.2024, 16:17:40 - INFO - New connected socket [id: RsEyN2ifDcNGGb8oAAAT] 
+11.4.2024, 16:17:41 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: RsEyN2ifDcNGGb8oAAAT] 
+11.4.2024, 16:17:58 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:17:58 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:17:58 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:17:59 - INFO - New connected socket [id: CHvQn__0Q-7m8GL5AAAV] 
+11.4.2024, 16:17:59 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: CHvQn__0Q-7m8GL5AAAV] 
+11.4.2024, 16:18:21 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:28:25 - INFO - New connected socket [id: iaIotr0x_G4SXa95AAAX] 
+11.4.2024, 16:28:25 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: iaIotr0x_G4SXa95AAAX] 
+11.4.2024, 16:29:03 - INFO - New connected socket [id: GjQCb6pb3qrZRcV1AAAZ] 
+11.4.2024, 16:29:03 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: GjQCb6pb3qrZRcV1AAAZ] 
+11.4.2024, 16:29:05 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:29:05 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:29:05 - INFO - New connected socket [id: YJBnY5AMoTH7DNnqAAAb] 
+11.4.2024, 16:29:05 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: YJBnY5AMoTH7DNnqAAAb] 
+11.4.2024, 16:29:18 - DEBUG - Getting Boards 
+11.4.2024, 16:29:34 - INFO - New connected socket [id: l2rylLwAkRCkodBZAAAd] 
+11.4.2024, 16:29:35 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: l2rylLwAkRCkodBZAAAd] 
+11.4.2024, 16:29:37 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:29:37 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:29:37 - INFO - New connected socket [id: 0DPUKMZ42D20ublgAAAf] 
+11.4.2024, 16:29:38 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: 0DPUKMZ42D20ublgAAAf] 
+11.4.2024, 16:29:47 - INFO - New connected socket [id: Hem8zt3TMDG85WB8AAAh] 
+11.4.2024, 16:29:48 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: Hem8zt3TMDG85WB8AAAh] 
+11.4.2024, 16:29:48 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:29:48 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:29:49 - INFO - New connected socket [id: DmrlTgdKYgDMjSHWAAAj] 
+11.4.2024, 16:29:49 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: DmrlTgdKYgDMjSHWAAAj] 
+11.4.2024, 16:30:26 - INFO - New connected socket [id: kQ7ZLauMWnfNmntUAAAl] 
+11.4.2024, 16:30:27 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: kQ7ZLauMWnfNmntUAAAl] 
+11.4.2024, 16:30:39 - INFO - New connected socket [id: _SO6Gnxrkj_Vvp2wAAAn] 
+11.4.2024, 16:30:39 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: _SO6Gnxrkj_Vvp2wAAAn] 
+11.4.2024, 16:30:41 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:30:41 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:30:41 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:30:42 - INFO - New connected socket [id: NDXXAT0W7NwYmlLGAAAp] 
+11.4.2024, 16:30:42 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: NDXXAT0W7NwYmlLGAAAp] 
+11.4.2024, 16:30:47 - DEBUG - Getting Boards 
+11.4.2024, 16:30:54 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:30:54 - INFO - New connected socket [id: dZ55AQzdaEKHV_p0AAAr] 
+11.4.2024, 16:30:54 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: dZ55AQzdaEKHV_p0AAAr] 
+11.4.2024, 16:30:58 - DEBUG - Getting Boards 
+11.4.2024, 16:31:54 - INFO - New chat msg from socket [id: dZ55AQzdaEKHV_p0AAAr], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 16:32:09 - INFO - New chat msg from socket [id: dZ55AQzdaEKHV_p0AAAr], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 16:32:16 - INFO - New chat msg from socket [id: dZ55AQzdaEKHV_p0AAAr], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 16:32:21 - INFO - New chat msg from socket [id: dZ55AQzdaEKHV_p0AAAr], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 16:32:45 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:32:45 - INFO - New connected socket [id: pjYX-pSJOgzxoBd9AAAt] 
+11.4.2024, 16:32:46 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: pjYX-pSJOgzxoBd9AAAt] 
+11.4.2024, 16:41:53 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 16:41:54 - INFO - New connected socket [id: TDyI9TfTlPzpl0fhAAAv] 
+11.4.2024, 17:14:10 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 17:14:10 - INFO - New connected socket [id: oxgLroM9qolSKVsWAAAx] 
+11.4.2024, 17:14:11 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: oxgLroM9qolSKVsWAAAx] 
+11.4.2024, 17:14:12 - DEBUG - Getting Boards 
+11.4.2024, 17:15:47 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 17:15:47 - INFO - New connected socket [id: vOrr_n7_dsagDxCYAAAz] 
+11.4.2024, 17:15:48 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: vOrr_n7_dsagDxCYAAAz] 
+11.4.2024, 17:16:00 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:16:21 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:16:26 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:16:28 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:18:06 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:18:07 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:18:11 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:18:15 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:18:16 - INFO - New chat msg from socket [id: vOrr_n7_dsagDxCYAAAz], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:18:52 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 17:18:52 - INFO - New connected socket [id: zWDARaJf0uk1ctXvAAA1] 
+11.4.2024, 17:18:52 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: zWDARaJf0uk1ctXvAAA1] 
+11.4.2024, 17:29:55 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:29:55 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:30:07 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:30:10 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:30:12 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:30:24 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:30:25 - INFO - New chat msg from socket [id: zWDARaJf0uk1ctXvAAA1], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 17:34:04 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 17:34:05 - INFO - New connected socket [id: 85NPKMth9Nnh-5t8AAA3] 
+11.4.2024, 17:38:43 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 17:38:45 - INFO - New connected socket [id: wCYK1vkt9S6E2yDQAAA5] 
+11.4.2024, 19:22:27 - INFO - New chat msg from socket [id: wCYK1vkt9S6E2yDQAAA5], emitting to boardId undefined 
+11.4.2024, 19:22:30 - INFO - New chat msg from socket [id: wCYK1vkt9S6E2yDQAAA5], emitting to boardId undefined 
+11.4.2024, 19:23:41 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:23:42 - INFO - New connected socket [id: ygAZphuo_uuKKCcyAAA7] 
+11.4.2024, 19:23:42 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: ygAZphuo_uuKKCcyAAA7] 
+11.4.2024, 19:23:45 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:23:47 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:23:49 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:24:19 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:24:21 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:24:21 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:24:22 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:24:22 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:24:23 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:12 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:14 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:29 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:32 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:33 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:34 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:26:35 - INFO - New chat msg from socket [id: ygAZphuo_uuKKCcyAAA7], emitting to boardId 629ba597ddfe9b64ca03c3be 
+11.4.2024, 19:30:24 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:30:25 - INFO - New connected socket [id: j3eXy4_BQOjw0M_vAAA9] 
+11.4.2024, 19:30:25 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: j3eXy4_BQOjw0M_vAAA9] 
+11.4.2024, 19:31:00 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:31:01 - INFO - New connected socket [id: l5Y4qoeH_K_4JfIuAAA_] 
+11.4.2024, 19:31:01 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: l5Y4qoeH_K_4JfIuAAA_] 
+11.4.2024, 19:31:03 - DEBUG - Getting Boards 
+11.4.2024, 19:31:10 - DEBUG - Getting Boards 
+11.4.2024, 19:31:11 - INFO - Socket is leaving boardId 629ba597ddfe9b64ca03c3c6 [id: l5Y4qoeH_K_4JfIuAAA_] 
+11.4.2024, 19:31:27 - DEBUG - Getting Boards 
+11.4.2024, 19:31:30 - INFO - Socket is leaving boardId 629ba597ddfe9b64ca03c3bf [id: l5Y4qoeH_K_4JfIuAAA_] 
+11.4.2024, 19:31:32 - DEBUG - Getting Boards 
+11.4.2024, 19:31:34 - INFO - Socket is leaving boardId 62c49437654e8b001650507e [id: l5Y4qoeH_K_4JfIuAAA_] 
+11.4.2024, 19:31:55 - DEBUG - Getting Boards 
+11.4.2024, 19:31:59 - INFO - Socket is leaving boardId 629ba597ddfe9b64ca03c3c3 [id: l5Y4qoeH_K_4JfIuAAA_] 
+11.4.2024, 19:34:56 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:34:57 - INFO - New connected socket [id: djWNOxB81GGK6cU9AABB] 
+11.4.2024, 19:34:57 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: djWNOxB81GGK6cU9AABB] 
+11.4.2024, 19:35:02 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:35:02 - INFO - New connected socket [id: YoClD95YgF18a0AaAABD] 
+11.4.2024, 19:35:02 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: YoClD95YgF18a0AaAABD] 
+11.4.2024, 19:35:05 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:35:05 - INFO - New connected socket [id: bmAJPbbTKj5xRzwgAABF] 
+11.4.2024, 19:35:06 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: bmAJPbbTKj5xRzwgAABF] 
+11.4.2024, 19:37:03 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:37:04 - INFO - New connected socket [id: 2K5-rCX5cdhmnwzwAABH] 
+11.4.2024, 19:37:04 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: 2K5-rCX5cdhmnwzwAABH] 
+11.4.2024, 19:37:53 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:37:53 - INFO - New connected socket [id: y13DrNIpZFoDyX95AABJ] 
+11.4.2024, 19:37:54 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: y13DrNIpZFoDyX95AABJ] 
+11.4.2024, 19:38:59 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:38:59 - INFO - New connected socket [id: Xa78EmkST8PEZK3HAABL] 
+11.4.2024, 19:39:00 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: Xa78EmkST8PEZK3HAABL] 
+11.4.2024, 19:39:07 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:39:08 - INFO - New connected socket [id: W9q3EYi4ro8FJFOAAABN] 
+11.4.2024, 19:39:08 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: W9q3EYi4ro8FJFOAAABN] 
+11.4.2024, 19:40:02 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:40:02 - INFO - New connected socket [id: q0aps5BKUFpuGqysAABP] 
+11.4.2024, 19:40:03 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: q0aps5BKUFpuGqysAABP] 
+11.4.2024, 19:40:53 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:40:53 - INFO - New connected socket [id: VGd7X3yH-o31IoBoAABR] 
+11.4.2024, 19:40:54 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: VGd7X3yH-o31IoBoAABR] 
+11.4.2024, 19:41:01 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:41:01 - INFO - New connected socket [id: W5wNVDAO5leCxf_tAABT] 
+11.4.2024, 19:41:01 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: W5wNVDAO5leCxf_tAABT] 
+11.4.2024, 19:41:03 - DEBUG - Getting Boards 
+11.4.2024, 19:42:18 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:42:18 - INFO - New connected socket [id: W9fyHF48MNW2MdbyAABV] 
+11.4.2024, 19:42:19 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: W9fyHF48MNW2MdbyAABV] 
+11.4.2024, 19:55:12 - INFO - Socket disconnected [id: undefined] 
+11.4.2024, 19:55:13 - INFO - New connected socket [id: Vq2CYoq-0duXBVDZAABX] 
+11.4.2024, 20:07:45 - INFO - Socket disconnected [id: undefined] 
+7.10.2024, 15:08:34 - INFO - Server is running on port: 3030 
+7.10.2024, 15:09:04 - INFO - New connected socket [id: CqGr-71PV8CSLwmcAAAB] 
+7.10.2024, 15:09:04 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: CqGr-71PV8CSLwmcAAAB] 
+7.10.2024, 15:09:15 - DEBUG - Getting Boards 
+7.10.2024, 15:09:35 - DEBUG - Getting Boards 
+7.10.2024, 15:09:38 - INFO - Socket disconnected [id: undefined] 
+7.10.2024, 15:09:38 - INFO - New connected socket [id: 9d-LVphf3kYAngD5AAAD] 
+7.10.2024, 15:09:38 - DEBUG - Getting Boards 
+7.10.2024, 15:09:39 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: 9d-LVphf3kYAngD5AAAD] 
+7.10.2024, 15:16:32 - INFO - New connected socket [id: bB1BAJFctbTOCmnhAAAF] 
+7.10.2024, 15:16:32 - INFO - Setting socket.userId = 62953c7742e472253897fe9e for socket [id: bB1BAJFctbTOCmnhAAAF] 
+7.10.2024, 15:16:34 - DEBUG - Getting Boards 
+7.10.2024, 15:17:27 - INFO - Socket disconnected [id: undefined] 
